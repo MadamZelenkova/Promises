@@ -1,4 +1,4 @@
-import read from ".reader.js";
+import read from "./reader.js";
 import json from "./parser";
 
 export default class GameSavingLoader {
